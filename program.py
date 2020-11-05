@@ -1,1 +1,2 @@
-print("My first Git program!!!")
+# Мария Любакова
+print("Hello, python")
